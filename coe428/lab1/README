@@ -1,0 +1,15 @@
+
+Mudassir Ashraf, 501117907
+
+mySort is the file where it uses the insertion sort algorithm that was wrote.
+Then was used in mainSort where it uses values of 10, 20. 30. 40 in an array of 4 and sorts array accordingly. Used "gcc" commands to compile and run.
+Finally in sortMain2, used argc and argv in main function to make sure if no command line arguments are given, it would output the data from before, and if there are command line arguments, covert them into integers and sort them into an array.
+
+
+
+
+
+Lab 1 Questions:
+
+1) A possible solution is to write the mySort() function with the command to take the last indices of the portion of the array subtract with the first indices of the portion of the array. That way you can determine the exact length of the array. 
+

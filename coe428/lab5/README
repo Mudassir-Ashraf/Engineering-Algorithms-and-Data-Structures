@@ -1,0 +1,7 @@
+Mudassir Ashraf, 501117907
+
+Everything complied and worked.
+
+Questions:
+
+1) In order to modify Requirement 1 to allow this kind of tag, we would have to create an extra conditional(if) statement to check for the character '/' after the alphabet character. If this condition is true then we must have a stand-alone tag.  

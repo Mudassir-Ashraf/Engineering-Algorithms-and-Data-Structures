@@ -1,0 +1,46 @@
+towers(4, 2, 2)
+..towers(3, 2, 2)
+....towers(2, 2, 2)
+......towers(1, 2, 2)
+........towers(0, 2, 2)
+........Move #1: From Tower 2 to Tower 2
+........towers(0, 2, 2)
+......Move #2: From Tower 2 to Tower 2
+......towers(1, 2, 2)
+........towers(0, 2, 2)
+........Move #3: From Tower 2 to Tower 2
+........towers(0, 2, 2)
+....Move #4: From Tower 2 to Tower 2
+....towers(2, 2, 2)
+......towers(1, 2, 2)
+........towers(0, 2, 2)
+........Move #5: From Tower 2 to Tower 2
+........towers(0, 2, 2)
+......Move #6: From Tower 2 to Tower 2
+......towers(1, 2, 2)
+........towers(0, 2, 2)
+........Move #7: From Tower 2 to Tower 2
+........towers(0, 2, 2)
+..Move #8: From Tower 2 to Tower 2
+..towers(3, 2, 2)
+....towers(2, 2, 2)
+......towers(1, 2, 2)
+........towers(0, 2, 2)
+........Move #9: From Tower 2 to Tower 2
+........towers(0, 2, 2)
+......Move #10: From Tower 2 to Tower 2
+......towers(1, 2, 2)
+........towers(0, 2, 2)
+........Move #11: From Tower 2 to Tower 2
+........towers(0, 2, 2)
+....Move #12: From Tower 2 to Tower 2
+....towers(2, 2, 2)
+......towers(1, 2, 2)
+........towers(0, 2, 2)
+........Move #13: From Tower 2 to Tower 2
+........towers(0, 2, 2)
+......Move #14: From Tower 2 to Tower 2
+......towers(1, 2, 2)
+........towers(0, 2, 2)
+........Move #15: From Tower 2 to Tower 2
+........towers(0, 2, 2)

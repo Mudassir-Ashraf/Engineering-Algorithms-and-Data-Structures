@@ -1,0 +1,28 @@
+Mudassir Ashraf, 501117907
+
+Everything compiled and worked. n-1 is number of times it is being compared
+n is number of elements in arrray (n*(n-1))
+
+Lab 3 Questions:
+
+2a. insertionSort Analysis
+Worst case: Swaps T(n) = n^2/2
+            Copies T(n) = n^2/2
+            Compares T(n) = n^2/2
+Best case: Swaps T(n) = 0
+           Copies T(n) = n
+           Compares T(n) =  n-1
+Average case: Swaps: T(n) = n^2/4
+              Copies: T(n) = n^2/4
+              Compares: T(n) = n^2/4
+
+2b. mergeSort Analysis
+Worst case: Swaps T(n) = 0
+           Copies T(n) = nlog(n)
+           Compares T(n) = nlog(n)
+Best case: Swaps T(n) = 0
+           Copies T(n) = nlog(n)
+           Compares T(n) = nlog(n)
+Average case: Swaps T(n) = 0
+           Copies T(n) = nlog(n)
+           Compares T(n) = nlog(n)

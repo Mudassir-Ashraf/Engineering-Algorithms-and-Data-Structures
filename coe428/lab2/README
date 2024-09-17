@@ -1,0 +1,21 @@
+Mudassir Ashraf, 501117907
+
+towersMain is the file where the hanoi puzzle algorithm is used.
+Requirement 2 completed by modifying main function to output certain commands depending on how many arguments were given. I have modified the code so it satisfies all given arguments. All outputs were achieved.
+
+
+Lab 2 Questions:
+
+Question 1
+
+1) towers(5,2,3) will recursively call towers(4,2,1)
+
+2) There will be 31 recursive calls to towers() before returning to the intial invocation
+
+3) The 1st disk will move from tower 2 to tower 3
+
+4) The 2nd recursive call will be: towers(3,2,3)
+
+Question 2 
+
+ The formula for determining the number of moves required to make in a hanoi puzzle is (2^n)-1, where n is the number of disks. Since we know n = 8, we can plug it in the formula to figure out the answer, which is 255.
